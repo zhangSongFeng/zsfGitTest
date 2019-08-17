@@ -1,1 +1,3 @@
-test.user.name=zsf
+ server:
+   port:8081
+ test.user.name=zsf
